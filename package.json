@@ -1,6 +1,6 @@
 {
   "name": "fis3-parser-imweb-data-checker",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "fis3 数据检查器插件",
   "keywords": [
     "fis3",
@@ -21,7 +21,7 @@
   },
   "homepage": "https://github.com/longyiyiyu/fis3-parser-imweb-data-checker",
   "dependencies": {
-    "data-member-defender": "^0.0.1"
+    "data-member-defender": "0.0.2"
   },
   "devDependencies": {}
 }
